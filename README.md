@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-[![Jonas' github stats](https://github-readme-stats.vercel.app/api?username=wiebecommajonas&count_private=true&show_icons=true&theme=onedark)
+![Jonas' github stats](https://github-readme-stats.vercel.app/api?username=wiebecommajonas&count_private=true&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiebecommajonas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiebecommajonas&layout=compact)
